@@ -1,0 +1,94 @@
+body {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    background: url(/newfigm.github.io/Rectangle\ 31.png);
+    background-repeat: no-repeat;
+}
+
+header {
+    height: 100vh;
+    max-width: 90%;
+    width: 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -200px;
+
+
+}
+
+header .headir-container {
+    position: relative;
+    height: 100vh;
+    max-width: 90%;
+    width: 90%;
+    margin: auto;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 1000px;
+}
+
+
+header ul {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+header a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+header .sev {
+    position: relative;
+    top: 286px;
+    width: 804px;
+    color: #ffffff;
+}
+
+header .mux {
+    position: relative;
+    color: #ffffff;
+}
+
+header p {
+    position: relative;
+    width: 458px;
+    color: #ffffff;
+    top: 300px;
+}
+
+header button {
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    position: relative;
+    background: #C9453B;
+    border-radius: 8px;
+    width: 163px;
+    height: 51px;
+    align-items: center;
+
+}
+
+
+header .button2 {
+    position: relative;
+    color: rgb(255, 255, 255);
+    background: #585858;
+    border-radius: 8px;
+    width: 84px;
+    height: 32px;
+    top: 350px;
+    align-items: center;
+}
